@@ -19,7 +19,6 @@ public class Member
     private String phoneNumber;
     private int numOfItemsBorrowed;
     private ArrayList <Item> listOfItemsBorrowed;
-    private int hey;
     
     
 }

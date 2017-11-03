@@ -18,11 +18,8 @@ public class Driver {
      */
     public static void main(String[] args) 
     {
-        Date bday = new Date(1998,3,16);
         
-        System.out.println(bday.getDate());
-        System.out.println("ad");
-        System.out.println("hh");
+
     }
     
 }
