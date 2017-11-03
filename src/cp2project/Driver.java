@@ -21,6 +21,8 @@ public class Driver {
         Date bday = new Date(1998,3,16);
         
         System.out.println(bday.getDate());
+        System.out.println("ad");
+        System.out.println("hh");
     }
     
 }
